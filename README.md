@@ -1,15 +1,13 @@
-# My awesome REST API
-
-## Installation
-
-'''
-
-pip install Flask
-python app.py
-'''
+# Bitcoin Analysis Project
 
 ## Description
+Simple scraping to extract informations about Bit coins. 
 
 ## Implementation
 
-This project is implemented using Flask, and is a REST API for a store.
+This project is implemented using:
+urllib.request
+BeautifulSoup
+pandas
+datetime
+time
